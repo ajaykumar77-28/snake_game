@@ -20,3 +20,10 @@ Welcome to the Snake Game, a modern take on the classic arcade game built with P
 
 
 **Screenshots**
+
+![Alt text](sample/Info_screen.png)
+![Alt text](sample/start_screen.png)
+![Alt text](sample/game_over.png)
+![Alt text](sample/pause_screen_01.png)
+![Alt text](sample/snake_screen_hold.png)
+
