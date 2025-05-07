@@ -40,11 +40,17 @@ python main.py
 
 🎮 Controls
 Key	Action
+
 W / ↑	Move Up
+
 A / ←	Move Left
+
 S / ↓	Move Down
+
 D / →	Move Right
+
 P	Pause/Resume
+
 
 _**To Do**_
  
