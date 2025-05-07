@@ -14,12 +14,6 @@ Welcome to the Snake Game, a modern take on the classic arcade game built with P
 
 👤 Player name support
 
-🗣️ Social features (chat, friend system) — using Firebase (in progress)
-
-📊 Real-time leaderboard and statistics
-
-📱 Optimized for both desktop and touchscreen setups
-
 
 ## _**🛠️ Installation**_
 
