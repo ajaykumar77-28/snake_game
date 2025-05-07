@@ -29,12 +29,12 @@ git clone https://github.com/your-username/snake-game.git
 cd snake-game
 ```
 
-## Install dependencies:
-`pip install -r requirements.txt`
+### Install dependencies:
+```pip install -r requirements.txt```
 
 Run the game:
 
-`python main.py`
+```python main.py```
 
 ## 🎮 Controls
 Key	Action
