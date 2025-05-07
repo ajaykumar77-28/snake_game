@@ -2,6 +2,8 @@
 
 Welcome to the Snake Game, a modern take on the classic arcade game built with Python, Pygame, and Kivy! This version adds modern features like sound effects, background music, pause/resume functionality, high scores, player profiles, and even social features like chat and friend systems (Firebase-based).
 
+![Block Snake Logo](Img/snake.ico)
+
 ## 🚀 Features
 
 🎮 Classic Snake gameplay with full-screen support
