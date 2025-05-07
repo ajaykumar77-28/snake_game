@@ -2,7 +2,9 @@
 Snake Game (Python + Pygame) This project is a feature-rich Snake Game implemented using Pygame, designed for fullscreen gameplay with immersive graphics and sound effects. The game is modularized across multiple files for better structure and maintainability.
 
 _**Core Features**_
+
 **Game Mechanics (snake.py)**
+
 Classic snake gameplay: the snake moves in a grid, eats food to grow longer, and the game ends if it collides with itself or the screen boundaries.
 
 Snake and food are drawn using pygame.Rect, with food randomly repositioned on consumption.
