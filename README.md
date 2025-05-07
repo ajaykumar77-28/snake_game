@@ -2,7 +2,7 @@
 
 Welcome to the Snake Game, a modern take on the classic arcade game built with Python, Pygame, and Kivy! This version adds modern features like sound effects, background music, pause/resume functionality, high scores, player profiles, and even social features like chat and friend systems (Firebase-based).
 
-##🚀 Features
+## 🚀 Features
 
 🎮 Classic Snake gameplay with full-screen support
 
@@ -21,22 +21,22 @@ Welcome to the Snake Game, a modern take on the classic arcade game built with P
 📱 Optimized for both desktop and touchscreen setups
 
 
-##_**🛠️ Installation**_
+## _**🛠️ Installation**_
 
 Clone the repository:
-'''
+```
 git clone https://github.com/your-username/snake-game.git
 cd snake-game
-'''
+```
 
-#Install dependencies:
-'pip install -r requirements.txt'
+## Install dependencies:
+`pip install -r requirements.txt`
 
 Run the game:
 
-'python main.py'
+`python main.py`
 
-##🎮 Controls
+## 🎮 Controls
 Key	Action
 
 W / ↑	Move Up
@@ -50,14 +50,14 @@ D / →	Move Right
 P	Pause/Resume
 
 
-##_**To Do**_
+## _**To Do**_
  
  Game Loop with UI
  Sound integration
  Pause, Resume, Game Over
  Clock ticking sound
 
- ##**Screenshots**
+ ## **Screenshots**
 
 ![Alt text](sample/Info_screen.png)
 
