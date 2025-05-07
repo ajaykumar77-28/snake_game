@@ -61,6 +61,8 @@ P	Pause/Resume
 
 ![Alt text](sample/start_screen.png)
 
+![Alt text](sample/game_play.png)
+
 ![Alt text](sample/snake_screen_hold.png)
 
 ![Alt text](sample/pause_screen_01.png)
