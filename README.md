@@ -24,11 +24,15 @@ cd snake-game
 ```
 
 ### Install dependencies:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Run the game:
 
-```python main.py```
+```
+python main.py
+```
 
 ## 🎮 Controls
 Key	Action
