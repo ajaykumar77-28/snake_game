@@ -71,7 +71,11 @@ P	Pause/Resume
 
 ![Alt text](sample/game_over.png)
 
- 
+## Note
+If you want to conver the code into `.exe` use the following command:
+```
+pyinstaller --name "Block Snake" --onefile --windowed --icon=Img/snake.ico --add-data "Img;Img" --add-data "sounds;sounds" main.py
+ ```
 ## License
 MIT License. Feel free to modify, distribute, or contribute.
 
