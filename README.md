@@ -72,7 +72,7 @@ P	Pause/Resume
 ![Alt text](sample/game_over.png)
 
  
-License
+## License
 MIT License. Feel free to modify, distribute, or contribute.
 
  
